@@ -1,0 +1,1252 @@
+[
+    {
+        "title": "The Shawshank Redemption",
+        "plot": "A banker convicted of uxoricide forms a friendship over a quarter century with a hardened convict, while maintaining his innocence and trying to remain hopeful through simple compassion.",
+        "classification": "16"
+    },
+    {
+        "title": "The Godfather",
+        "plot": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+        "classification": "14"
+    },
+    {
+        "title": "The Dark Knight",
+        "plot": "When a menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman, James Gordon and Harvey Dent must work together to put an end to the madness.",
+        "classification": "12"
+    },
+    {
+        "title": "The Godfather Part II",
+        "plot": "The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate.",
+        "classification": "14"
+    },
+    {
+        "title": "12 Angry Men",
+        "plot": "The jury in a New York City murder trial is frustrated by a single member whose skeptical caution forces them to more carefully consider the evidence before jumping to a hasty verdict.",
+        "classification": "Livre"
+    },
+    {
+        "title": "The Lord of the Rings: The Return of the King",
+        "plot": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+        "classification": "14"
+    },
+    {
+        "title": "Schindler's List",
+        "plot": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+        "classification": "14"
+    },
+    {
+        "title": "Pulp Fiction",
+        "plot": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+        "classification": "18"
+    },
+    {
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "plot": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
+        "classification": "12"
+    },
+    {
+        "title": "Il buono, il brutto, il cattivo",
+        "plot": "A bounty-hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery.",
+        "classification": "14"
+    },
+    {
+        "title": "Forrest Gump",
+        "plot": "The history of the United States from the 1950s to the '70s unfolds from the perspective of an Alabama man with an IQ of 75, who yearns to be reunited with his childhood sweetheart.",
+        "classification": "14"
+    },
+    {
+        "title": "The Lord of the Rings: The Two Towers",
+        "plot": "While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron's new ally, Saruman, and his hordes of Isengard.",
+        "classification": "12"
+    },
+    {
+        "title": "Fight Club",
+        "plot": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.",
+        "classification": "18"
+    },
+    {
+        "title": "Inception",
+        "plot": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O., but his tragic past may doom the project and his team to disaster.",
+        "classification": "14"
+    },
+    {
+        "title": "Star Wars: Episode V - The Empire Strikes Back",
+        "plot": "After the Empire overpowers the Rebel Alliance, Luke Skywalker begins training with Jedi Master Yoda, while Darth Vader and bounty hunter Boba Fett pursue his friends across the galaxy.",
+        "classification": "Livre"
+    },
+    {
+        "title": "The Matrix",
+        "plot": "When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.",
+        "classification": "14"
+    },
+    {
+        "title": "Goodfellas",
+        "plot": "The story of Henry Hill and his life in the mafia, covering his relationship with his wife Karen and his mob partners Jimmy Conway and Tommy DeVito.",
+        "classification": "14"
+    },
+    {
+        "title": "One Flew Over the Cuckoo's Nest",
+        "plot": "In the Fall of 1963, a Korean War veteran and criminal pleads insanity and is admitted to a mental institution, where he rallies up the scared patients against the tyrannical nurse.",
+        "classification": "16"
+    },
+    {
+        "title": "Interstellar",
+        "plot": "When Earth becomes uninhabitable in the future, a farmer and ex-NASA pilot, Joseph Cooper, is tasked to pilot a spacecraft, along with a team of researchers, to find a new planet for humans.",
+        "classification": "10"
+    },
+    {
+        "title": "Se7en",
+        "plot": "Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives.",
+        "classification": "14"
+    },
+    {
+        "title": "It's a Wonderful Life",
+        "plot": "An angel is sent from Heaven to help a desperately frustrated businessman by showing him what life would have been like if he had never existed.",
+        "classification": "Livre"
+    },
+    {
+        "title": "Shichinin no samurai",
+        "plot": "Farmers from a village exploited by bandits hire a veteran samurai for protection, and he gathers six other samurai to join him.",
+        "classification": "10"
+    },
+    {
+        "title": "The Silence of the Lambs",
+        "plot": "A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims.",
+        "classification": "14"
+    },
+    {
+        "title": "Saving Private Ryan",
+        "plot": "Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action.",
+        "classification": "14"
+    },
+    {
+        "title": "Cidade de Deus",
+        "plot": "In the slums of Rio, two kids' paths diverge as one struggles to become a photographer and the other a kingpin.",
+        "classification": "18"
+    },
+    {
+        "title": "The Green Mile",
+        "plot": "Paul Edgecomb, the head death row guard at a prison in 1930s Louisiana, meets an inmate, John Coffey, a black man who is accused of murdering two girls. His life changes drastically when he discovers that John has a special gift.",
+        "classification": "18"
+    },
+    {
+        "title": "La vita è bella",
+        "plot": "When an open-minded Jewish waiter and his son become victims of the Holocaust, he uses a perfect mixture of will, humor and imagination to protect his son from the dangers around their camp.",
+        "classification": "Livre"
+    },
+    {
+        "title": "Terminator 2: Judgment Day",
+        "plot": "A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her ten year old son John from an even more advanced and powerful cyborg.",
+        "classification": "14"
+    },
+    {
+        "title": "Star Wars",
+        "plot": "Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader.",
+        "classification": "Livre"
+    },
+    {
+        "title": "Back to the Future",
+        "plot": "Marty McFly, a 17-year-old high school student, is accidentally sent 30 years into the past in a time-traveling DeLorean invented by his close friend, the maverick scientist Doc Brown.",
+        "classification": "Livre"
+    },
+    {
+        "title": "Sen to Chihiro no kamikakushi",
+        "plot": "During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches and spirits, and where humans are changed into beasts.",
+        "classification": "Livre"
+    },
+    {
+        "title": "The Pianist",
+        "plot": "During WWII, acclaimed Polish musician Wladyslaw faces various struggles as he loses contact with his family. As the situation worsens, he hides in the ruins of Warsaw in order to survive.",
+        "classification": "14"
+    },
+    {
+        "title": "Gladiator",
+        "plot": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
+        "classification": "14"
+    },
+    {
+        "title": "Gisaengchung",
+        "plot": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
+        "classification": "16"
+    },
+    {
+        "title": "Psycho",
+        "plot": "A secretary on the run for embezzlement takes refuge at a secluded California motel owned by a repressed man and his overbearing mother.",
+        "classification": "14"
+    },
+    {
+        "title": "The Lion King",
+        "plot": "Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself.",
+        "classification": "Livre"
+    },
+    {
+        "title": "Hotaru no haka",
+        "plot": "A young boy and his little sister struggle to survive in Japan during World War II.",
+        "classification": "12"
+    },
+    {
+        "title": "The Departed",
+        "plot": "An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.",
+        "classification": "18"
+    },
+    {
+        "title": "Whiplash",
+        "plot": "A promising young drummer enrolls at a cut-throat music conservatory where his dreams of greatness are mentored by an instructor who will stop at nothing to realize a student's potential.",
+        "classification": "12"
+    },
+    {
+        "title": "American History X",
+        "plot": "Living a life marked by violence, neo-Nazi Derek finally goes to prison after killing two black youths. Upon his release, Derek vows to change; he hopes to prevent his brother, Danny, who idolizes Derek, from following in his footsteps.",
+        "classification": "16"
+    },
+    {
+        "title": "Seppuku",
+        "plot": "When a ronin requesting seppuku at a feudal lord's palace is told of the brutal suicide of another ronin who previously visited, he reveals how their pasts are intertwined - and in doing so challenges the clan's integrity.",
+        "classification": "16"
+    },
+    {
+        "title": "The Prestige",
+        "plot": "Rival 19th-century magicians engage in a bitter battle for trade secrets.",
+        "classification": "14"
+    },
+    {
+        "title": "Léon",
+        "plot": "12-year-old Mathilda is reluctantly taken in by Léon, a professional assassin, after her family is murdered. An unusual relationship forms as she becomes his protégée and learns the assassin's trade.",
+        "classification": "14"
+    },
+    {
+        "title": "Spider-Man: Across the Spider-Verse",
+        "plot": "Miles Morales catapults across the multiverse, where he encounters a team of Spider-People charged with protecting its very existence. When the heroes clash on how to handle a new threat, Miles must redefine what it means to be a hero.",
+        "classification": "10"
+    },
+    {
+        "title": "Casablanca",
+        "plot": "A cynical expatriate American cafe owner struggles to decide whether or not to help his former lover and her fugitive husband escape the Nazis in French Morocco.",
+        "classification": "Livre"
+    },
+    {
+        "title": "The Usual Suspects",
+        "plot": "The sole survivor of a pier shoot-out tells the story of how a notorious criminal influenced the events that began with five criminals meeting in a seemingly random police lineup.",
+        "classification": "14"
+    },
+    {
+        "title": "Intouchables",
+        "plot": "After he becomes a quadriplegic from a paragliding accident, an aristocrat hires a young man from the projects to be his caregiver.",
+        "classification": "14"
+    },
+    {
+        "title": "Nuovo Cinema Paradiso",
+        "plot": "Salvatore, a famous film director, returns to his hometown for the funeral of the local theater's film projectionist, Alfredo. He reminisces about his life as a young boy falling in love with cinema.",
+        "classification": "10"
+    },
+    {
+        "title": "Modern Times",
+        "plot": "The Tramp struggles to live in modern industrial society with the help of a young homeless woman.",
+        "classification": "Livre"
+    },
+    {
+        "title": "Alien",
+        "plot": "After investigating a mysterious transmission of unknown origin, the crew of a commercial spacecraft encounters a deadly lifeform.",
+        "classification": "14"
+    },
+    {
+        "title": "Rear Window",
+        "plot": "A bored photographer recovering from a broken leg passes the time by watching his neighbors and begins to suspect one of them of murder.",
+        "classification": "12"
+    },
+    {
+        "title": "C'era una volta il West",
+        "plot": "A mysterious stranger with a harmonica joins forces with a notorious desperado to protect a beautiful widow from a ruthless assassin working for the railroad.",
+        "classification": "14"
+    },
+    {
+        "title": "Django Unchained",
+        "plot": "With the help of a German bounty-hunter, a freed slave sets out to rescue his wife from a brutal plantation owner in Mississippi.",
+        "classification": "16"
+    },
+    {
+        "title": "Dune: Part Two",
+        "plot": "Paul Atreides unites with the Fremen while on a warpath of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the universe, he endeavors to prevent a terrible future.",
+        "classification": "14"
+    },
+    {
+        "title": "City Lights",
+        "plot": "With the aid of a wealthy erratic tippler, a dewy-eyed tramp who has fallen in love with a sightless flower girl accumulates money to be able to help her medically.",
+        "classification": "Livre"
+    },
+    {
+        "title": "Apocalypse Now",
+        "plot": "A U.S. Army officer serving in Vietnam is tasked with assassinating a renegade Special Forces Colonel who sees himself as a god.",
+        "classification": "16"
+    },
+    {
+        "title": "Memento",
+        "plot": "Leonard Shelby, an insurance investigator, suffers from anterograde amnesia and uses notes and tattoos to hunt for the man he thinks killed his wife, which is the last thing he remembers.",
+        "classification": "16"
+    },
+    {
+        "title": "WALL·E",
+        "plot": "A robot who is responsible for cleaning a waste-covered Earth meets another robot and falls in love with her. Together, they set out on a journey that will alter the fate of mankind.",
+        "classification": "Livre"
+    },
+    {
+        "title": "Raiders of the Lost Ark",
+        "plot": "In 1936, archaeologists and adventurers of the U.S. government hired Indiana Jones to find the Ark of the Covenant before the Nazis could obtain its extraordinary powers.",
+        "classification": "Livre"
+    },
+    {
+        "title": "Das Leben der Anderen",
+        "plot": "In 1984 East Berlin, an agent of the secret police conducting surveillance on a writer and his lover finds himself becoming increasingly absorbed by their lives.",
+        "classification": "12"
+    },
+    {
+        "title": "Avengers: Infinity War",
+        "plot": "The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.",
+        "classification": "12"
+    },
+    {
+        "title": "Sunset Blvd.",
+        "plot": "A screenwriter develops a dangerous relationship with a faded film star determined to make a triumphant return.",
+        "classification": "Livre"
+    },
+    {
+        "title": "Spider-Man: Into the Spider-Verse",
+        "plot": "Teen Miles Morales becomes the Spider-Man of his universe and must join with five spider-powered individuals from other dimensions to stop a threat for all realities.",
+        "classification": "10"
+    },
+    {
+        "title": "Paths of Glory",
+        "plot": "A colonel defends three of his soldiers in a court-martial after they abandon a suicidal attack.",
+        "classification": "14"
+    },
+    {
+        "title": "Witness for the Prosecution",
+        "plot": "A veteran British barrister must defend his client in a murder trial that has surprise after surprise.",
+        "classification": "12"
+    },
+    {
+        "title": "12th Fail",
+        "plot": "The real-life story of IPS Officer Manoj Kumar Sharma and IRS Officer Shraddha Joshi.",
+        "classification": "10"
+    },
+    {
+        "title": "The Shining",
+        "plot": "A family heads to an isolated hotel for the winter, where a sinister presence influences the father into violence. At the same time, his psychic son sees horrifying forebodings from both the past and the future.",
+        "classification": "16"
+    },
+    {
+        "title": "The Great Dictator",
+        "plot": "Dictator Adenoid Hynkel tries to expand his empire while a poor Jewish barber tries to avoid persecution from Hynkel's regime.",
+        "classification": "Livre"
+    },
+    {
+        "title": "Aliens",
+        "plot": "Decades after surviving the Nostromo incident, Ellen Ripley is sent out to re-establish contact with a terraforming colony but finds herself battling the Alien Queen and her offspring.",
+        "classification": "14"
+    },
+    {
+        "title": "Inglourious Basterds",
+        "plot": "In Nazi-occupied France during World War II, a plan to assassinate Nazi leaders by a group of Jewish U.S. soldiers coincides with a theatre owner's vengeful plans for the same.",
+        "classification": "18"
+    },
+    {
+        "title": "The Dark Knight Rises",
+        "plot": "Bane, an imposing terrorist, attacks Gotham City and disrupts its eight-year-long period of peace. This forces Bruce Wayne to come out of hiding and don the cape and cowl of Batman again.",
+        "classification": "12"
+    },
+    {
+        "title": "Coco",
+        "plot": "Aspiring musician Miguel, confronted with his family's ancestral ban on music, enters the Land of the Dead to find his great-great-grandfather, a legendary singer.",
+        "classification": "Livre"
+    },
+    {
+        "title": "Amadeus",
+        "plot": "The life, success and troubles of Wolfgang Amadeus Mozart, as told by Antonio Salieri, the contemporaneous composer who was deeply jealous of Mozart's talent and claimed to have murdered him.",
+        "classification": "Livre"
+    },
+    {
+        "title": "Toy Story",
+        "plot": "A cowboy doll is profoundly threatened and jealous when a new spaceman action figure supplants him as top toy in a boy's bedroom.",
+        "classification": "Livre"
+    },
+    {
+        "title": "Avengers: Endgame",
+        "plot": "After the devastating events of Vingadores: Guerra Infinita (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+        "classification": "12"
+    },
+    {
+        "title": "Oldeuboi",
+        "plot": "After being kidnapped and imprisoned for fifteen years, Oh Dae-Su is released, only to find that he must track down his captor in five days.",
+        "classification": "16"
+    },
+    {
+        "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+        "plot": "A mentally unstable American general orders a hydrogen bomb attack on the Soviet Union, triggering a path to global nuclear holocaust that a war room full of politicians and generals frantically tries to stop.",
+        "classification": "10"
+    },
+    {
+        "title": "Good Will Hunting",
+        "plot": "Will Hunting, a janitor at MIT, has a gift for mathematics, but needs help from a psychologist to find direction in his life.",
+        "classification": "14"
+    },
+    {
+        "title": "American Beauty",
+        "plot": "A sexually frustrated suburban father has a mid-life crisis after becoming infatuated with his daughter's best friend.",
+        "classification": "14"
+    },
+    {
+        "title": "Das Boot",
+        "plot": "A German U-boat stalks the frigid waters of the North Atlantic as its young crew experience the sheer terror and claustrophobic life of a submariner in World War II.",
+        "classification": "14"
+    },
+    {
+        "title": "Braveheart",
+        "plot": "Scottish warrior William Wallace leads his countrymen in a rebellion to free his homeland from the tyranny of King Edward I of England.",
+        "classification": "16"
+    },
+    {
+        "title": "Mononoke-hime",
+        "plot": "On a journey to find the cure for a Tatarigami's curse, Ashitaka finds himself in the middle of a war between the forest gods and Tatara, a mining colony. In this quest he also meets San, the Mononoke Hime.",
+        "classification": "12"
+    },
+    {
+        "title": "Kimi no Na wa.",
+        "plot": "Two teenagers share a profound, magical connection upon discovering they are swapping bodies. Things manage to become even more complicated when the boy and girl decide to meet in person.",
+        "classification": "Livre"
+    },
+    {
+        "title": "Tengoku to jigoku",
+        "plot": "An executive of a Yokohama shoe company becomes a victim of extortion when his chauffeur's son is kidnapped by mistake and held for ransom.",
+        "classification": "Not Rated"
+    },
+    {
+        "title": "3 Idiots",
+        "plot": "Two friends are searching for their long lost companion. They revisit their college days and recall the memories of their friend who inspired them to think differently, even as the rest of the world called them \"idiots\".",
+        "classification": "12"
+    },
+    {
+        "title": "Joker",
+        "plot": "Arthur Fleck, a party clown and a failed stand-up comedian, leads an impoverished life with his ailing mother. However, when society shuns him and brands him as a freak, he decides to embrace the life of chaos in Gotham City.",
+        "classification": "16"
+    },
+    {
+        "title": "Once Upon a Time in America",
+        "plot": "A former Prohibition-era Jewish gangster returns to the Lower East Side of Manhattan 35 years later, where he must once again confront the ghosts and regrets of his old life.",
+        "classification": "18"
+    },
+    {
+        "title": "Singin' in the Rain",
+        "plot": "A silent film star falls for a chorus girl just as he and his delusionally jealous screen partner are trying to make the difficult transition to talking pictures in 1920s Hollywood.",
+        "classification": "Livre"
+    },
+    {
+        "title": "Capharnaüm",
+        "plot": "While serving a five-year sentence for a violent crime, a 12-year-old boy sues his parents for neglect.",
+        "classification": "16"
+    },
+    {
+        "title": "Idi i smotri",
+        "plot": "After finding an old rifle, a young boy joins the Soviet resistance movement against ruthless German forces and experiences the horrors of World War II.",
+        "classification": "18"
+    },
+    {
+        "title": "Requiem for a Dream",
+        "plot": "The drug-induced utopias of four Coney Island people are shattered when their addictions run deep.",
+        "classification": "18"
+    },
+    {
+        "title": "Toy Story 3",
+        "plot": "The toys are mistakenly delivered to a day-care center instead of the attic right before Andy leaves for college, and it's up to Woody to convince the other toys that they weren't abandoned and to return home.",
+        "classification": "Livre"
+    },
+    {
+        "title": "Star Wars: Episode VI - Return of the Jedi",
+        "plot": "After rescuing Han Solo from Jabba the Hutt, the Rebel Alliance attempts to destroy the second Death Star while Luke struggles to help Darth Vader back from the dark side.",
+        "classification": "Livre"
+    },
+    {
+        "title": "Jagten",
+        "plot": "A teacher lives a lonely life, all the while struggling over his son's custody. His life slowly gets better as he finds love and receives good news from his son, but his new luck is about to be brutally shattered by an innocent little lie.",
+        "classification": "14"
+    },
+    {
+        "title": "Eternal Sunshine of the Spotless Mind",
+        "plot": "When their relationship turns sour, a couple undergoes a medical procedure to have each other erased from their memories forever.",
+        "classification": "14"
+    },
+    {
+        "title": "Ikiru",
+        "plot": "A bureaucrat tries to find meaning in his life after he discovers he has terminal cancer.",
+        "classification": "Not Rated"
+    },
+    {
+        "title": "2001: A Space Odyssey",
+        "plot": "When a mysterious artifact is uncovered on the Moon, a spacecraft manned by two humans and one supercomputer is sent to Jupiter to find its origins.",
+        "classification": "Livre"
+    },
+    {
+        "title": "Reservoir Dogs",
+        "plot": "When a simple jewelry heist goes horribly wrong, the surviving criminals begin to suspect that one of them is a police informant.",
+        "classification": "18"
+    },
+    {
+        "title": "The Apartment",
+        "plot": "A Manhattan insurance clerk tries to rise in his company by letting its executives use his apartment for trysts, but office politics and his own romantic hopes complicate matters.",
+        "classification": "Livre"
+    },
+    {
+        "title": "Lawrence of Arabia",
+        "plot": "The story of T.E. Lawrence, the English officer who successfully united and led the diverse, often warring, Arab tribes during World War I in order to fight the Turks.",
+        "classification": "14"
+    },
+    {
+        "title": "Incendies",
+        "plot": "Twins journey to the Middle East to discover their family history and fulfill their mother's last wishes.",
+        "classification": "14"
+    },
+    {
+        "title": "Scarface",
+        "plot": "In the 1980s, a determined criminal-minded Cuban immigrant becomes the biggest drug smuggler in Miami, and is eventually undone by his own drug addiction.",
+        "classification": "18"
+    },
+    {
+        "title": "Double Indemnity",
+        "plot": "An insurance representative is seduced by a dissatisfied housewife into a scheme of insurance fraud and murder that arouses the suspicion of his colleague, a claims investigator.",
+        "classification": "14"
+    },
+    {
+        "title": "North by Northwest",
+        "plot": "A New York City advertising executive goes on the run after being mistaken for a government agent by a group of foreign spies, and falls for a woman whose loyalties he begins to doubt.",
+        "classification": "14"
+    },
+    {
+        "title": "Heat",
+        "plot": "A group of high-end professional thieves start to feel the heat from the LAPD when they unknowingly leave a verbal clue at their latest heist.",
+        "classification": "14"
+    },
+    {
+        "title": "Citizen Kane",
+        "plot": "Following the death of publishing tycoon Charles Foster Kane, reporters scramble to uncover the meaning of his final utterance: 'Rosebud.'",
+        "classification": "Livre"
+    },
+    {
+        "title": "M - Eine Stadt sucht einen Mörder",
+        "plot": "When the police in a German city are unable to catch a child-murderer, other criminals join in the manhunt.",
+        "classification": "12"
+    },
+    {
+        "title": "Up",
+        "plot": "78-year-old Carl Fredricksen travels to South America in his house equipped with balloons, inadvertently taking a young stowaway.",
+        "classification": "Livre"
+    },
+    {
+        "title": "Full Metal Jacket",
+        "plot": "A pragmatic U.S. Marine observes the dehumanizing effects the Vietnam War has on his fellow recruits from their brutal boot camp training to the bloody street fighting in Hue.",
+        "classification": "16"
+    },
+    {
+        "title": "Vertigo",
+        "plot": "A former San Francisco police detective juggles wrestling with his personal demons and becoming obsessed with the hauntingly beautiful woman he has been hired to trail, who may be deeply disturbed.",
+        "classification": "14"
+    },
+    {
+        "title": "Le fabuleux destin d'Amélie Poulain",
+        "plot": "Despite being caught in her imaginative world, young waitress Amelie decides to help people find happiness. Her quest to spread joy leads her on a journey during which she finds true love.",
+        "classification": "14"
+    },
+    {
+        "title": "Oppenheimer",
+        "plot": "A dramatization of the life story of J. Robert Oppenheimer, the physicist who had a large hand in the development of the atomic bombs that brought an end to World War II.",
+        "classification": "16"
+    },
+    {
+        "title": "A Clockwork Orange",
+        "plot": "Alex DeLarge and his droogs barbarize a decaying near-future.",
+        "classification": "(Banned)"
+    },
+    {
+        "title": "To Kill a Mockingbird",
+        "plot": "A widowed lawyer in Depression-era Alabama defends a black man against a false rape charge while teaching his young children about the sad reality of prejudice.",
+        "classification": "12"
+    },
+    {
+        "title": "Jodaeiye Nader az Simin",
+        "plot": "A married couple are faced with a difficult decision - to improve the life of their child by moving to another country or to stay in Iran and look after a deteriorating parent who has Alzheimer's disease.",
+        "classification": "12"
+    },
+    {
+        "title": "Die Hard",
+        "plot": "A New York City police officer tries to save his estranged wife and several others taken hostage by terrorists during a Christmas party at the Nakatomi Plaza in Los Angeles.",
+        "classification": "14"
+    },
+    {
+        "title": "The Sting",
+        "plot": "Two grifters team up to pull off the ultimate con.",
+        "classification": "18"
+    },
+    {
+        "title": "Taare Zameen Par",
+        "plot": "A young boy is thought to be nothing but a lazy troublemaker until the new art teacher has the patience and compassion to discover the real problem behind his struggles in school.",
+        "classification": "Livre"
+    },
+    {
+        "title": "Indiana Jones and the Last Crusade",
+        "plot": "In 1938, after his father goes missing while pursuing the Holy Grail, Indiana Jones finds himself up against the Nazis again to stop them from obtaining its powers.",
+        "classification": "Livre"
+    },
+    {
+        "title": "Metropolis",
+        "plot": "In a futuristic city sharply divided between the working class and the city planners, the son of the city's mastermind falls in love with a working-class prophet who predicts the coming of a savior to mediate their differences.",
+        "classification": "Livre"
+    },
+    {
+        "title": "Snatch",
+        "plot": "Unscrupulous boxing promoters, violent bookmakers, a Russian gangster, incompetent amateur robbers and supposedly Jewish jewelers fight to track down a priceless stolen diamond.",
+        "classification": "16"
+    },
+    {
+        "title": "1917",
+        "plot": "April 6th, 1917. As an infantry battalion assembles to wage war deep in enemy territory, two soldiers are assigned to race against time and deliver a message that will stop 1,600 men from walking straight into a deadly trap.",
+        "classification": "14"
+    },
+    {
+        "title": "L.A. Confidential",
+        "plot": "As corruption grows in 1950s Los Angeles, three policemen - one strait-laced, one brutal, and one sleazy - investigate a series of murders with their own brand of justice.",
+        "classification": "18"
+    },
+    {
+        "title": "Ladri di biciclette",
+        "plot": "In post-war Italy, a working-class man's bicycle is stolen, endangering his efforts to find work. He and his son set out to find it.",
+        "classification": "10"
+    },
+    {
+        "title": "Der Untergang",
+        "plot": "Traudl Junge, the final secretary for Adolf Hitler, tells of the Nazi dictator's final days in his Berlin bunker at the end of WWII.",
+        "classification": "16"
+    },
+    {
+        "title": "Dangal",
+        "plot": "Mahavir Singh Phogat, a former wrestler, decides to fulfill his dream of winning a gold medal for his country by training his daughters for the Commonwealth Games despite the existing social stigmas.",
+        "classification": "10"
+    },
+    {
+        "title": "Taxi Driver",
+        "plot": "A mentally unstable veteran works as a nighttime taxi driver in New York City, where the perceived decadence and sleaze fuels his urge for violent action.",
+        "classification": "14"
+    },
+    {
+        "title": "Hamilton",
+        "plot": "The real life of one of America's foremost founding fathers and first Secretary of the Treasury, Alexander Hamilton. Captured live on Broadway from the Richard Rodgers Theater with the original Broadway cast.",
+        "classification": "12"
+    },
+    {
+        "title": "The Wolf of Wall Street",
+        "plot": "Based on the true story of Jordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption and the federal government.",
+        "classification": "18"
+    },
+    {
+        "title": "Batman Begins",
+        "plot": "After witnessing his parents' death, Bruce learns the art of fighting to confront injustice. When he returns to Gotham as Batman, he must stop a secret society that intends to destroy the city.",
+        "classification": "10"
+    },
+    {
+        "title": "Green Book",
+        "plot": "A working-class Italian-American bouncer becomes the driver for an African-American classical pianist on a tour of venues through the 1960s American South.",
+        "classification": "12"
+    },
+    {
+        "title": "Per qualche dollaro in più",
+        "plot": "Two bounty killers with similar intentions but different motivations team up to track down a psychotic Mexican outlaw before he and his gang can carry out an audacious bank robbery.",
+        "classification": "12"
+    },
+    {
+        "title": "Some Like It Hot",
+        "plot": "After two male musicians witness a mob hit, they flee the state in an all-female band disguised as women, but further complications set in.",
+        "classification": "Livre"
+    },
+    {
+        "title": "The Truman Show",
+        "plot": "An insurance salesman begins to suspect that his whole life is actually some sort of reality TV show.",
+        "classification": "12"
+    },
+    {
+        "title": "Judgment at Nuremberg",
+        "plot": "Fictionalized depiction of the 1947 Judges' Trial, the third of twelve trials of Nazi war criminals conducted by the American occupying forces in Nuremberg, Germany, in which former judges of Nazi Germany were tried for their actions.",
+        "classification": "Approved"
+    },
+    {
+        "title": "The Kid",
+        "plot": "The Tramp cares for an abandoned child, but events put their relationship in jeopardy.",
+        "classification": "Livre"
+    },
+    {
+        "title": "The Father",
+        "plot": "A man refuses all assistance from his daughter as he ages. As he tries to make sense of his changing circumstances, he begins to doubt his loved ones, his own mind and even the fabric of his reality.",
+        "classification": "12"
+    },
+    {
+        "title": "Shutter Island",
+        "plot": "Two US marshals are sent to a mental institution on an inhospitable island in order to investigate the disappearance of a patient.",
+        "classification": "16"
+    },
+    {
+        "title": "All About Eve",
+        "plot": "A seemingly timid but secretly ruthless ingénue insinuates herself into the lives of an aging Broadway star and her circle of theater friends.",
+        "classification": "Livre"
+    },
+    {
+        "title": "There Will Be Blood",
+        "plot": "A story of family, religion, hatred, oil and madness, focusing on a turn-of-the-century prospector in the early days of the business.",
+        "classification": "14"
+    },
+    {
+        "title": "Jurassic Park",
+        "plot": "An industrialist invites some experts to visit his theme park of cloned dinosaurs. After a power failure, the creatures run loose, putting everyone's lives, including his grandchildren's, in danger.",
+        "classification": "Livre"
+    },
+    {
+        "title": "Casino",
+        "plot": "In Las Vegas, two best friends--a casino executive and a Mafia enforcer--compete for a gambling empire and a fast-living, fast-loving socialite.",
+        "classification": "18"
+    },
+    {
+        "title": "The Sixth Sense",
+        "plot": "After being shot by a resentful former patient whom he failed to help, a Philadelphia child psychologist seeks redemption by treating a young boy with a disturbing secret.",
+        "classification": "12"
+    },
+    {
+        "title": "Ran",
+        "plot": "In Medieval Japan, an elderly warlord retires, handing over his empire to his three sons. However, he vastly underestimates how the new-found power will corrupt them and cause them to turn on each other...and him.",
+        "classification": "16"
+    },
+    {
+        "title": "Top Gun: Maverick",
+        "plot": "The story involves Maverick confronting his past while training a group of younger Top Gun graduates, including the son of his deceased best friend, for a dangerous mission.",
+        "classification": "12"
+    },
+    {
+        "title": "No Country for Old Men",
+        "plot": "Violence and mayhem ensue after a hunter stumbles upon the aftermath of a drug deal gone wrong and over two million dollars in cash near the Rio Grande.",
+        "classification": "16"
+    },
+    {
+        "title": "The Thing",
+        "plot": "A research team in Antarctica is hunted by a shape-shifting alien that assumes the appearance of its victims.",
+        "classification": "14"
+    },
+    {
+        "title": "El laberinto del fauno",
+        "plot": "In 1944 Spain, a girl is sent to live with her ruthless stepfather. During the night, she meets a fairy who takes her to an old faun. He tells her she's a princess, but must prove her royalty by surviving three gruesome tasks.",
+        "classification": "16"
+    },
+    {
+        "title": "Unforgiven",
+        "plot": "Retired Old West gunslinger Will Munny reluctantly takes on one last job to avenge an injustice with the help of his old partner and a newer outlaw known simply as The Schofield Kid.",
+        "classification": "12"
+    },
+    {
+        "title": "A Beautiful Mind",
+        "plot": "A mathematical genius, John Nash made an astonishing discovery early in his career and stood on the brink of international acclaim. But the handsome and arrogant Nash soon found himself on a harrowing journey of self-discovery.",
+        "classification": "12"
+    },
+    {
+        "title": "Kill Bill: Vol. 1",
+        "plot": "After waking from a four-year coma, a former assassin wreaks vengeance on the team of assassins who betrayed her.",
+        "classification": "18"
+    },
+    {
+        "title": "The Treasure of the Sierra Madre",
+        "plot": "Two down-on-their-luck Americans searching for work in 1920s Mexico convince an old prospector to help them mine for gold in the Sierra Madre Mountains.",
+        "classification": "Livre"
+    },
+    {
+        "title": "Yôjinbô",
+        "plot": "A crafty ronin comes to a town divided by two criminal gangs and decides to play them against each other to free the town.",
+        "classification": "Livre"
+    },
+    {
+        "title": "Prisoners",
+        "plot": "Keller Dover is facing every parent's worst nightmare. His six-year-old daughter, Anna, is missing, together with her friend, Joy, and as minutes turn to hours, panic sets in. The only lead is an RV that had been parked on their street.",
+        "classification": "16"
+    },
+    {
+        "title": "Finding Nemo",
+        "plot": "After his son is captured in the Great Barrier Reef and taken to Sydney, a timid clownfish sets out on a journey to bring him home.",
+        "classification": "Livre"
+    },
+    {
+        "title": "The Great Escape",
+        "plot": "Allied officers in a German prisoner of war camp during World War II making a daring plan for a mass escape by hundreds of their men, hoping to draw German personnel and resources away from combat operations.",
+        "classification": "12"
+    },
+    {
+        "title": "Monty Python and the Holy Grail",
+        "plot": "King Arthur and his Knights of the Round Table embark on a surreal, low-budget search for the Holy Grail, encountering many, very silly obstacles.",
+        "classification": "Livre"
+    },
+    {
+        "title": "Hauru no ugoku shiro",
+        "plot": "When an unconfident young woman is cursed with an old body by a spiteful witch, her only chance of breaking the spell lies with a self-indulgent yet insecure young wizard and his companions in his legged, walking castle.",
+        "classification": "Livre"
+    },
+    {
+        "title": "The Elephant Man",
+        "plot": "A Victorian surgeon rescues a heavily disfigured man who is mistreated while scraping a living as a side-show freak. Behind his monstrous façade, there is revealed a person of kindness, intelligence and sophistication.",
+        "classification": "10"
+    },
+    {
+        "title": "The Wild Robot",
+        "plot": "After a shipwreck, an intelligent robot called Roz is stranded on an uninhabited island. To survive the harsh environment, Roz bonds with the island's animals and cares for an orphaned baby goose.",
+        "classification": "Livre"
+    },
+    {
+        "title": "Dial M for Murder",
+        "plot": "A former tennis star arranges the murder of his adulterous wife.",
+        "classification": "16"
+    },
+    {
+        "title": "Rashômon",
+        "plot": "The rape of a bride and the murder of her samurai husband are recalled from the perspectives of a bandit, the bride, the samurai's ghost and a woodcutter.",
+        "classification": "14"
+    },
+    {
+        "title": "Gone with the Wind",
+        "plot": "A sheltered and manipulative Southern belle and a roguish profiteer face off in a turbulent romance as the society around them crumbles with the end of slavery and is rebuilt during the Civil War and Reconstruction periods.",
+        "classification": "Livre"
+    },
+    {
+        "title": "Chinatown",
+        "plot": "A private detective hired to expose an adulterer in 1930s Los Angeles finds himself caught up in a web of deceit, corruption, and murder.",
+        "classification": "12"
+    },
+    {
+        "title": "El secreto de sus ojos",
+        "plot": "A retired legal counselor writes a novel hoping to find closure for one of his past unresolved homicide cases and for his unreciprocated love with his superior - both of which still haunt him decades later.",
+        "classification": "16"
+    },
+    {
+        "title": "Lock, Stock and Two Smoking Barrels",
+        "plot": "When four small-time criminals lose a rigged poker game against a London kingpin, he gives them one week to settle their enormous debt.",
+        "classification": "18"
+    },
+    {
+        "title": "Klaus",
+        "plot": "A simple act of kindness always sparks another, even in a frozen, faraway place. When Smeerensburg's new postman, Jesper, befriends toymaker Klaus, their gifts melt an age-old feud and deliver a sleigh full of holiday traditions.",
+        "classification": "10"
+    },
+    {
+        "title": "V for Vendetta",
+        "plot": "In a future British dystopian society, a shadowy freedom fighter, known only by the alias of \"V\", plots to overthrow the tyrannical government - with the help of a young woman.",
+        "classification": "16"
+    },
+    {
+        "title": "Inside Out",
+        "plot": "After young Riley is uprooted from her Midwest life and moved to San Francisco, her emotions - Joy, Fear, Anger, Disgust and Sadness - conflict on how best to navigate a new city, house, and school.",
+        "classification": "Livre"
+    },
+    {
+        "title": "Three Billboards Outside Ebbing, Missouri",
+        "plot": "A mother personally challenges the local authorities to solve her daughter's murder when they fail to catch the culprit.",
+        "classification": "16"
+    },
+    {
+        "title": "The Bridge on the River Kwai",
+        "plot": "British POWs are forced to build a railway bridge across the river Kwai for their Japanese captors in occupied Burma, not knowing that the allied forces are planning a daring commando raid through the jungle to destroy it.",
+        "classification": "12"
+    },
+    {
+        "title": "Trainspotting",
+        "plot": "Renton, deeply immersed in the Edinburgh drug scene, tries to clean up and get out despite the allure of drugs and the influence of friends.",
+        "classification": "18"
+    },
+    {
+        "title": "Raging Bull",
+        "plot": "The life of boxer Jake LaMotta, whose violence and temper that led him to the top in the ring destroyed his life outside of it.",
+        "classification": "16"
+    },
+    {
+        "title": "Catch Me If You Can",
+        "plot": "Barely 17 yet, Frank is a skilled forger who has passed as a doctor, lawyer and pilot. FBI agent Carl becomes obsessed with tracking down the con man, who only revels in the pursuit.",
+        "classification": "12"
+    },
+    {
+        "title": "Fargo",
+        "plot": "Minnesota car salesman Jerry Lundegaard's inept crime falls apart due to his and his henchmen's bungling and the persistent police work of the quite pregnant Marge Gunderson.",
+        "classification": "18"
+    },
+    {
+        "title": "Warrior",
+        "plot": "The youngest son of an alcoholic former boxer returns home, where he's trained by his father for competition in a mixed martial arts tournament - a path that puts the fighter on a collision course with his estranged, older brother.",
+        "classification": "12"
+    },
+    {
+        "title": "Harry Potter and the Deathly Hallows - Part 2",
+        "plot": "As the battle between the forces of good and evil in the wizarding world escalates, Harry Potter draws ever closer to his final confrontation with Voldemort.",
+        "classification": "12"
+    },
+    {
+        "title": "Gran Torino",
+        "plot": "After a Hmong teenager tries to steal his prized 1972 Gran Torino, a disgruntled, prejudiced Korean War veteran seeks to redeem both the boy and himself.",
+        "classification": "14"
+    },
+    {
+        "title": "Spider-Man: No Way Home",
+        "plot": "With Spider-Man's identity now revealed, Peter asks Doctor Strange for help. When a spell goes wrong, dangerous foes from other worlds start to appear.",
+        "classification": "12"
+    },
+    {
+        "title": "Million Dollar Baby",
+        "plot": "Frankie, an ill-tempered old coach, reluctantly agrees to train aspiring boxer Maggie. Impressed with her determination and talent, he helps her become the best and the two soon form a close bond.",
+        "classification": "12"
+    },
+    {
+        "title": "Tonari no Totoro",
+        "plot": "When two girls move to the country to be near their ailing mother, they have adventures with the wondrous forest spirits who live nearby.",
+        "classification": "Livre"
+    },
+    {
+        "title": "Mad Max: Fury Road",
+        "plot": "In a post-apocalyptic wasteland, a woman rebels against a tyrannical ruler in search for her homeland with the aid of a group of female prisoners, a psychotic worshipper and a drifter named Max.",
+        "classification": "16"
+    },
+    {
+        "title": "Ben-Hur",
+        "plot": "A Jewish prince is betrayed and sent into slavery by a Roman friend in 1st-century Jerusalem, but it's not long before he regains his freedom and comes back for revenge.",
+        "classification": "12"
+    },
+    {
+        "title": "Bacheha-ye aseman",
+        "plot": "After a boy loses his sister's pair of shoes, he goes on a series of adventures in order to find them. When he can't, he tries a new way to \"win\" a new pair.",
+        "classification": "Livre"
+    },
+    {
+        "title": "Barry Lyndon",
+        "plot": "An Irish rogue wins the heart of a rich widow and assumes her dead husband's aristocratic position in 18th-century England.",
+        "classification": "Livre"
+    },
+    {
+        "title": "12 Years a Slave",
+        "plot": "In the antebellum United States, Solomon Northup, a free black man from upstate New York, is abducted and sold into slavery.",
+        "classification": "14"
+    },
+    {
+        "title": "Before Sunrise",
+        "plot": "A young man and woman meet on a train in Europe, and wind up spending one evening together in Vienna. Unfortunately, both know that this will probably be their only night together.",
+        "classification": "12"
+    },
+    {
+        "title": "Blade Runner",
+        "plot": "A blade runner must pursue and terminate four replicants who stole a ship in space and have returned to Earth to find their creator.",
+        "classification": "14"
+    },
+    {
+        "title": "The Grand Budapest Hotel",
+        "plot": "A writer encounters the owner of an aging high-class hotel, who tells him of his early years serving as a lobby boy in the hotel's glorious years under an exceptional concierge.",
+        "classification": "14"
+    },
+    {
+        "title": "Dead Poets Society",
+        "plot": "Maverick teacher John Keating returns in 1959 to the prestigious New England boys' boarding school where he was once a star student, using poetry to embolden his pupils to new heights of self-expression.",
+        "classification": "12"
+    },
+    {
+        "title": "Hacksaw Ridge",
+        "plot": "World War II American Army Medic Desmond T. Doss, serving during the Battle of Okinawa, refuses to kill people and becomes the first man in American history to receive the Medal of Honor without firing a shot.",
+        "classification": "16"
+    },
+    {
+        "title": "Gone Girl",
+        "plot": "The husband of a missing woman becomes the chief suspect in her disappearance.",
+        "classification": "14"
+    },
+    {
+        "title": "Salinui chueok",
+        "plot": "In a small Korean province in 1986, two detectives struggle with the case of multiple young women being found raped and murdered by an unknown culprit.",
+        "classification": "14"
+    },
+    {
+        "title": "In the Name of the Father",
+        "plot": "An Irish man's coerced confession to an I.R.A. bombing he did not commit results in the imprisonment of his father as well. Meanwhile, a British lawyer fights to clear their names and free them.",
+        "classification": "16"
+    },
+    {
+        "title": "Monsters, Inc.",
+        "plot": "In order to power the city, monsters have to scare children so that they scream. However, the children are toxic to the monsters, and after a child gets through, two monsters realize things may not be what they think.",
+        "classification": "Livre"
+    },
+    {
+        "title": "The Gold Rush",
+        "plot": "A prospector goes to the Klondike during the 1890s gold rush in hopes of making his fortune, and is smitten with a girl he sees in a dance hall.",
+        "classification": "Livre"
+    },
+    {
+        "title": "Ratatouille",
+        "plot": "A rat who can cook makes an unusual alliance with a young kitchen worker at a famous Paris restaurant.",
+        "classification": "Livre"
+    },
+    {
+        "title": "Relatos salvajes",
+        "plot": "Six short stories that explore the extremities of human behavior involving people in distress.",
+        "classification": "14"
+    },
+    {
+        "title": "How to Train Your Dragon",
+        "plot": "A hapless young Viking who aspires to hunt dragons becomes the unlikely friend of a young dragon himself, and learns there may be more to the creatures than he assumed.",
+        "classification": "Livre"
+    },
+    {
+        "title": "Jaws",
+        "plot": "When a massive killer shark unleashes chaos on a beach community off Long Island, it's up to a local sheriff, a marine biologist, and an old seafarer to hunt the beast down.",
+        "classification": "14"
+    },
+    {
+        "title": "Sherlock Jr.",
+        "plot": "A film projectionist longs to be a detective, and puts his meagre skills to work when he is framed by a rival for stealing his girlfriend's father's pocketwatch.",
+        "classification": "Passed"
+    },
+    {
+        "title": "The Deer Hunter",
+        "plot": "An in-depth examination of the ways in which the Vietnam War impacts and disrupts the lives of several friends in a small steel mill town in Pennsylvania.",
+        "classification": "18"
+    },
+    {
+        "title": "Mary and Max.",
+        "plot": "In 1976 Melbourne, a lonely 8-year-old girl strikes up a correspondence with an unlikely pen pal: a severely obese 44-year-old New Yorker with Asperger's syndrome.",
+        "classification": "12"
+    },
+    {
+        "title": "The General",
+        "plot": "After being rejected by the Confederate military, not realizing it was due to his crucial civilian role, an engineer must single-handedly recapture his beloved locomotive after it is seized by Union spies and return it through enemy lines.",
+        "classification": "Livre"
+    },
+    {
+        "title": "Ford v Ferrari",
+        "plot": "American car designer Carroll Shelby and driver Ken Miles battle corporate interference and the laws of physics to build a revolutionary race car for Ford in order to defeat Ferrari at the 24 Hours of Le Mans in 1966.",
+        "classification": "12"
+    },
+    {
+        "title": "Le salaire de la peur",
+        "plot": "In a decrepit South American village, four men are hired to transport an urgent nitroglycerine shipment without the equipment that would make it safe.",
+        "classification": "16"
+    },
+    {
+        "title": "On the Waterfront",
+        "plot": "An ex-prize fighter turned New Jersey longshoreman struggles to stand up to his corrupt union bosses, including his older brother, as he starts to connect with the grieving sister of one of the syndicate's victims.",
+        "classification": "14"
+    },
+    {
+        "title": "Mr. Smith Goes to Washington",
+        "plot": "A naive youth leader is appointed to fill a vacancy in the U.S. Senate. His idealistic plans promptly collide with corruption at home and subterfuge from his hero in Washington, but he tries to forge ahead despite attacks on his character.",
+        "classification": "Livre"
+    },
+    {
+        "title": "Maharaja",
+        "plot": "A barber seeks vengeance after his home is burglarized, cryptically telling police his \"lakshmi\" has been taken, leaving them uncertain if it's a person or object. His quest to recover the elusive \"lakshmi\" unfolds.",
+        "classification": "N/A"
+    },
+    {
+        "title": "Smultronstället",
+        "plot": "After living a life marked by coldness, an aging professor is forced to confront the emptiness of his existence.",
+        "classification": "10"
+    },
+    {
+        "title": "The Third Man",
+        "plot": "Pulp novelist Holly Martins travels to shadowy, postwar Vienna, only to find himself investigating the mysterious death of an old friend, Harry Lime.",
+        "classification": "14"
+    },
+    {
+        "title": "Logan",
+        "plot": "In a future where mutants are nearly extinct, an elderly and weary Logan leads a quiet life. But when Laura, a mutant child pursued by scientists, comes to him for help, he must get her to safety.",
+        "classification": "16"
+    },
+    {
+        "title": "Rocky",
+        "plot": "A small-time Philadelphia boxer gets a supremely rare chance to fight the world heavyweight champion in a bout in which he strives to go the distance for his self-respect.",
+        "classification": "12"
+    },
+    {
+        "title": "Kimetsu no Yaiba: Tsuzumi Yashiki-hen",
+        "plot": "Tanjiro ventures to the south-southeast where he encounters a cowardly young man named Zenitsu Agatsuma. He is a fellow survivor from Final Selection and his sparrow asks Tanjiro to help keep him in line.",
+        "classification": "N/A"
+    },
+    {
+        "title": "Tôkyô monogatari",
+        "plot": "An old couple visit their children and grandchildren in the city, but receive little attention.",
+        "classification": "10"
+    },
+    {
+        "title": "The Big Lebowski",
+        "plot": "Jeff \"The Dude\" Lebowski, mistaken for a millionaire of the same name, seeks restitution for his ruined rug and enlists his bowling buddies to help get it.",
+        "classification": "14"
+    },
+    {
+        "title": "Spotlight",
+        "plot": "The true story of how the Boston Globe uncovered the massive scandal of child molestation and cover-up within the local Catholic Archdiocese, shaking the entire Catholic Church to its core.",
+        "classification": "12"
+    },
+    {
+        "title": "Det sjunde inseglet",
+        "plot": "A knight returning to Sweden after the Crusades seeks answers about life, death, and the existence of God as he plays chess against the Grim Reaper during the Black Plague.",
+        "classification": "12"
+    },
+    {
+        "title": "Room",
+        "plot": "A little boy is held captive in a room with his mother since his birth, so he has never known the world outside.",
+        "classification": "14"
+    },
+    {
+        "title": "The Terminator",
+        "plot": "A cyborg assassin from the future attempts to find and kill a young woman who is destined to give birth to a warrior that will lead a resistance to save humankind from extinction.",
+        "classification": "14"
+    },
+    {
+        "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+        "plot": "Blacksmith Will Turner teams up with eccentric pirate \"Captain\" Jack Sparrow to save Elizabeth Swann, the governor's daughter and his love, from Jack's former pirate allies, who are now undead.",
+        "classification": "14"
+    },
+    {
+        "title": "Hotel Rwanda",
+        "plot": "Paul Rusesabagina, a hotel manager, houses over a thousand Tutsi refugees during their struggle against the Hutu militia in Rwanda, Africa.",
+        "classification": "14"
+    },
+    {
+        "title": "Platoon",
+        "plot": "Chris Taylor, a neophyte recruit in Vietnam, finds himself caught in a battle of wills between two sergeants, one good and the other evil. A shrewd examination of the brutality of war and the duality of man in conflict.",
+        "classification": "14"
+    },
+    {
+        "title": "La haine",
+        "plot": "24 hours in the lives of three young men in the French suburbs the day after a violent riot.",
+        "classification": "16"
+    },
+    {
+        "title": "Jai Bhim",
+        "plot": "When a tribal man is arrested for a case of alleged theft, his wife turns to a human-rights lawyer to help bring justice.",
+        "classification": "Approved"
+    },
+    {
+        "title": "Before Sunset",
+        "plot": "Nine years after Jesse and Celine first met, they encounter each other again on the French leg of Jesse's book tour.",
+        "classification": "12"
+    },
+    {
+        "title": "The Best Years of Our Lives",
+        "plot": "Three World War II veterans, two of them traumatized or disabled, return home to the American midwest to discover that they and their families have been irreparably changed.",
+        "classification": "Livre"
+    },
+    {
+        "title": "La passion de Jeanne d'Arc",
+        "plot": "In 1431, Jeanne d'Arc is placed on trial on charges of heresy. The ecclesiastical jurists attempt to force Jeanne to recant her claims of holy visions.",
+        "classification": "14"
+    },
+    {
+        "title": "The Exorcist",
+        "plot": "When a mysterious entity possesses a young girl, her mother seeks the help of two Catholic priests to save her life.",
+        "classification": "14"
+    },
+    {
+        "title": "The Wizard of Oz",
+        "plot": "Young Dorothy Gale and her dog Toto are swept away by a tornado from their Kansas farm to the magical Land of Oz and embark on a quest with three new friends to see the Wizard, who can return her to her home and fulfill the others' wishes.",
+        "classification": "Livre"
+    },
+    {
+        "title": "The Incredibles",
+        "plot": "While trying to lead a quiet suburban life, a family of undercover superheroes are forced into action to save the world.",
+        "classification": "Livre"
+    },
+    {
+        "title": "Rush",
+        "plot": "James Hunt and Niki Lauda, two extremely skilled Formula One racers, have an intense rivalry with each other. However, it is their enmity that pushes them to their limits.",
+        "classification": "14"
+    },
+    {
+        "title": "The Sound of Music",
+        "plot": "A young novice is sent by her convent in 1930s Austria to become a governess to the seven children of a widowed naval officer.",
+        "classification": "Livre"
+    },
+    {
+        "title": "Stand by Me",
+        "plot": "A writer recounts a childhood journey with his friends to find the body of a missing boy.",
+        "classification": "12"
+    },
+    {
+        "title": "Hachi: A Dog's Tale",
+        "plot": "Professor Wilson discovers a lost Akita puppy on his way home. Despite objections from his wife, Hachi endears himself to the family and grows to be Parker's loyal companion. As their bond grows deeper, a beautiful relationship unfolds.",
+        "classification": "Livre"
+    },
+    {
+        "title": "Network",
+        "plot": "A television network cynically exploits a deranged former anchor's ravings and revelations about mass media for its own profit, but finds that his message may be difficult to control.",
+        "classification": "14"
+    },
+    {
+        "title": "Babam ve Oglum",
+        "plot": "The family of a left-wing journalist is torn apart after the military coup of Turkey in 1980.",
+        "classification": "Not Rated"
+    },
+    {
+        "title": "Ah-ga-ssi",
+        "plot": "In 1930s Korea, a girl is hired as a handmaiden to a Japanese heiress who lives a secluded life on a countryside estate. But the maid has a secret: She is a pickpocket recruited by a swindler to help seduce the Lady and steal her fortune.",
+        "classification": "18"
+    },
+    {
+        "title": "To Be or Not to Be",
+        "plot": "During the German occupation of Poland, an acting troupe becomes embroiled in a Polish soldier's efforts to track down a German spy.",
+        "classification": "Livre"
+    },
+    {
+        "title": "The Iron Giant",
+        "plot": "A young boy befriends a giant robot from outer space that a paranoid government agent wants to destroy.",
+        "classification": "Livre"
+    },
+    {
+        "title": "La battaglia di Algeri",
+        "plot": "In the 1950s, fear and violence escalate as the people of Algiers fight for independence from the French government.",
+        "classification": "14"
+    },
+    {
+        "title": "Into the Wild",
+        "plot": "After graduating from Emory University, top student and athlete Christopher McCandless abandons his possessions, gives his entire $24,000 savings account to charity and hitchhikes to Alaska to live in the wilderness.",
+        "classification": "12"
+    },
+    {
+        "title": "The Grapes of Wrath",
+        "plot": "An Oklahoma family, driven off their farm by the poverty and hopelessness of the Dust Bowl, joins the westward migration to California, suffering the misfortunes of the homeless in the Great Depression.",
+        "classification": "12"
+    },
+    {
+        "title": "Groundhog Day",
+        "plot": "A narcissistic, self-centered weatherman finds himself in a time loop on Groundhog Day.",
+        "classification": "12"
+    },
+    {
+        "title": "Un condamné à mort s'est échappé ou Le vent souffle où il veut",
+        "plot": "A captured French Resistance fighter during World War II engineers a daunting escape from a German prison in France.",
+        "classification": "Not Rated"
+    },
+    {
+        "title": "The Help",
+        "plot": "An aspiring author during the civil rights movement of the 1960s decides to write a book detailing the African American maids' point of view on the white families for which they work, and the hardships they go through on a daily basis.",
+        "classification": "12"
+    },
+    {
+        "title": "Amores perros",
+        "plot": "An amateur dog fighter, a supermodel, and a derelict assassin, all separately struggling to find love, find their lives transformed by a devastating car wreck in Mexico City.",
+        "classification": "16"
+    },
+    {
+        "title": "Rebecca",
+        "plot": "A self-conscious woman juggles adjusting to her new role as an aristocrat's wife and avoiding being intimidated by his first wife's spectral presence.",
+        "classification": "12"
+    },
+    {
+        "title": "Koe no katachi",
+        "plot": "A deaf girl, Shoko, is bullied by the popular Shoya. As Shoya continues to bully Shoko, the class turns its back on him. Shoko transfers and Shoya grows up as an outcast. Alone and depressed, the regretful Shoya finds Shoko to make amends.",
+        "classification": "14"
+    },
+    {
+        "title": "Drishyam",
+        "plot": "Desperate measures are taken by a man who tries to save his family from the dark side of the law, after they commit an unexpected crime.",
+        "classification": "Not Rated"
+    }
+]
