@@ -39,9 +39,9 @@ Este projeto demonstra um pipeline completo de coleta, processamento e classific
   pip install -r requirements.txt
 
 ## Como executar
-
-- python web_scraping.py
-- python classifier.py
+    ```bash
+    python web_scraping.py
+    python classifier.py
 
 ## Melhorias
 
