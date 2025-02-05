@@ -1248,5 +1248,275 @@
         "title": "Drishyam",
         "plot": "Desperate measures are taken by a man who tries to save his family from the dark side of the law, after they commit an unexpected crime.",
         "classification": "Not Rated"
+    },
+    {
+        "title": "The Last Stand",
+        "plot": "A retired military general is called back to duty when a terrorist group threatens to destroy a major city. With limited resources, he assembles a team of elite soldiers to stop the attack.",
+        "classification": "18"
+    },
+    {
+        "title": "Ghosts of the Past",
+        "plot": "A young woman inherits an old mansion and begins to experience strange occurrences. She uncovers a dark family secret and must confront the ghosts of her ancestors to break the curse.",
+        "classification": "16"
+    },
+    {
+        "title": "The Secret Lab",
+        "plot": "A group of friends stumbles upon a hidden laboratory where an eccentric scientist is conducting secret experiments. They must solve puzzles and outwit traps to uncover the lab's mysteries.",
+        "classification": "12"
+    },
+    {
+        "title": "Supernova",
+        "plot": "A team of astronauts is sent to explore a dying star in a distant galaxy. As they approach the supernova, they face life-threatening challenges and must work together to survive.",
+        "classification": "10"
+    },
+    {
+        "title": "The Magical Key",
+        "plot": "A curious child discovers an ancient key that opens a portal to a fantastical world. Along with new friends, they embark on an epic quest to protect the world from an evil sorcerer.",
+        "classification": "Livre"
+    },
+    {
+        "title": "Dark Horizons",
+        "plot": "A group of survivors must navigate a post-apocalyptic world overrun by mutants. They form uneasy alliances with other survivors to fight for resources and uncover the truth about the apocalypse.",
+        "classification": "18"
+    },
+    {
+        "title": "The Spy's Shadow",
+        "plot": "An elite spy is on the hunt for a rogue agent who has gone rogue and is planning to sell state secrets. The chase takes him through international cities and deadly encounters.",
+        "classification": "16"
+    },
+    {
+        "title": "Underwater Odyssey",
+        "plot": "A deep-sea research team is trapped in an underwater base after a catastrophic event. With limited supplies and rising pressure, they must figure out how to escape before time runs out.",
+        "classification": "12"
+    },
+    {
+        "title": "The Quest for Eternity",
+        "plot": "A young archaeologist embarks on an expedition to find an ancient artifact rumored to grant immortality. Along the way, he faces dangerous rivals and must decipher cryptic clues to uncover the artifact's location.",
+        "classification": "10"
+    },
+    {
+        "title": "The Dragon's Fury",
+        "plot": "In a kingdom threatened by a fearsome dragon, a young knight must learn the ancient ways of dragon-slaying to save his people. Along his journey, he discovers the true nature of the beast.",
+        "classification": "Livre"
+    },
+    {
+        "title": "The Silent Witness",
+        "plot": "A detective investigates a series of mysterious deaths linked to a local theater. As she digs deeper, she uncovers a dark conspiracy involving the town's elite.",
+        "classification": "18"
+    },
+    {
+        "title": "Run for Your Life",
+        "plot": "A young man is wrongly accused of a crime and goes on the run to clear his name. He must navigate dangerous situations and evade law enforcement to prove his innocence.",
+        "classification": "16"
+    },
+    {
+        "title": "The Midnight Forest",
+        "plot": "A group of teenagers venture into a haunted forest at night, determined to prove the supernatural stories are just myths. What they find there is more terrifying than they ever imagined.",
+        "classification": "12"
+    },
+    {
+        "title": "The Lost Island",
+        "plot": "A team of explorers discovers an uncharted island that holds the key to an ancient civilization's power. They must survive wild creatures and deadly traps to uncover its secrets.",
+        "classification": "10"
+    },
+    {
+        "title": "The Little Princess",
+        "plot": "A young orphan girl is taken to a grand boarding school, where she befriends other students and uncovers a mystery about her father's disappearance.",
+        "classification": "Livre"
+    },
+    {
+        "title": "Beneath the Surface",
+        "plot": "When an underwater mining operation uncovers an ancient alien artifact, the crew becomes entangled in a battle for survival against strange forces lurking beneath the ocean's depths.",
+        "classification": "18"
+    },
+    {
+        "title": "Chasing Shadows",
+        "plot": "A former detective, now living in seclusion, is pulled back into a case that ties him to a dangerous criminal from his past. With his life on the line, he must solve the mystery before it's too late.",
+        "classification": "16"
+    },
+    {
+        "title": "The Secret Garden",
+        "plot": "A young girl discovers a hidden garden on her late uncle's estate and begins to bring it back to life, uncovering not only the beauty of nature but also family secrets long buried.",
+        "classification": "12"
+    },
+    {
+        "title": "Skyward Bound",
+        "plot": "A young pilot sets off on her first solo flight, but when a powerful storm hits, she must use all her skills to navigate back to safety while uncovering a conspiracy that could change the world.",
+        "classification": "10"
+    },
+    {
+        "title": "The Magic Compass",
+        "plot": "A group of children find an ancient compass that leads them to a world filled with magical creatures and perilous adventures. They must work together to protect the compass from evil forces.",
+        "classification": "Livre"
+    },
+    {
+        "title": "City of Thieves",
+        "plot": "In a dystopian future, a group of rebels fights against a corrupt government controlling the city. A seasoned thief joins their ranks to help steal a powerful weapon that could bring freedom.",
+        "classification": "18"
+    },
+    {
+        "title": "Edge of Reality",
+        "plot": "A scientist's experiment goes wrong, causing reality to fracture and blur the line between dream and waking life. He must navigate the shifting world to find a way to fix his mistake.",
+        "classification": "16"
+    },
+    {
+        "title": "The Enchanted Kingdom",
+        "plot": "A young prince, cursed to live as a beast, must find true love before the curse consumes him. Along the way, he learns valuable lessons about kindness and sacrifice.",
+        "classification": "12"
+    },
+    {
+        "title": "Riders of the Apocalypse",
+        "plot": "In the midst of an apocalypse, a group of survivors, led by a former soldier, must fight off violent raiders and weather the coming storm in a battle to rebuild civilization.",
+        "classification": "18"
+    },
+    {
+        "title": "The Dragon Knight",
+        "plot": "A knight who has been searching for redemption is tasked with protecting a dragon egg from a dark sorcerer. Along his journey, he must face trials that test his courage and honor.",
+        "classification": "16"
+    },
+    {
+        "title": "The Great Escape",
+        "plot": "During World War II, a group of prisoners plan an elaborate escape from a high-security POW camp, risking everything for freedom and to bring hope to their fellow soldiers.",
+        "classification": "12"
+    },
+    {
+        "title": "The Dreamer's Journey",
+        "plot": "A young artist sets out on a journey to find inspiration for his masterpiece. Along the way, he faces personal struggles and unexpected encounters that change his view of the world.",
+        "classification": "10"
+    },
+    {
+        "title": "The Dark Secrets",
+        "plot": "A group of journalists investigating corruption within a powerful corporation find themselves caught in a dangerous game of cat and mouse as they uncover dark secrets that threaten their lives.",
+        "classification": "18"
+    },
+    {
+        "title": "The Magic Mirror",
+        "plot": "A young girl discovers a magical mirror that shows her alternate versions of her life. As she becomes obsessed, she must decide whether to change her destiny or embrace who she truly is.",
+        "classification": "Livre"
+    },
+    {
+        "title": "The Last Guardian",
+        "plot": "In a future where humanity is on the brink of extinction, the last remaining guardian of a sacred city must protect its secrets from invaders and uncover the truth behind its mystical power.",
+        "classification": "16"
+    },
+    {
+        "title": "Outlaw's End",
+        "plot": "A notorious outlaw on the run forms an uneasy alliance with a bounty hunter. Together, they must survive a lawless desert and evade a relentless posse intent on capturing them.",
+        "classification": "18"
+    },
+    {
+        "title": "The Forbidden Tomb",
+        "plot": "A group of archaeologists stumbles upon an ancient tomb believed to be cursed. As they uncover its secrets, they realize the tomb is more dangerous than they could ever imagine.",
+        "classification": "16"
+    },
+    {
+        "title": "The Moonlight Heist",
+        "plot": "A skilled thief plans to steal a priceless gem during a luxurious gala on the moon. But things go wrong when a rival thief shows up, and they must outwit each other to escape.",
+        "classification": "12"
+    },
+    {
+        "title": "The Wishing Well",
+        "plot": "A young boy discovers a magical well that grants wishes. But as his desires come true, he soon realizes the consequences of tampering with fate.",
+        "classification": "10"
+    },
+    {
+        "title": "The Forest of Lost Souls",
+        "plot": "A group of hikers gets lost in a forest rumored to be haunted. As they struggle to find their way out, they encounter strange and frightening creatures.",
+        "classification": "18"
+    },
+    {
+        "title": "The Phantom Assassin",
+        "plot": "An elite assassin is tasked with eliminating a high-profile target, but as the mission progresses, he begins to question his loyalty and the motives behind his orders.",
+        "classification": "16"
+    },
+    {
+        "title": "The Butterfly Effect",
+        "plot": "A scientist invents a machine that allows people to travel through time, but when he tries to fix his past mistakes, he inadvertently causes catastrophic changes in the future.",
+        "classification": "12"
+    },
+    {
+        "title": "The Sky King",
+        "plot": "A young prince must prove his worth to the people of his kingdom by embarking on a dangerous quest. Along the way, he learns valuable lessons about leadership and sacrifice.",
+        "classification": "Livre"
+    },
+    {
+        "title": "The Fallen Angel",
+        "plot": "An angel sent to protect a troubled woman falls in love with her. As their bond grows, he must choose between his duty and his heart.",
+        "classification": "16"
+    },
+    {
+        "title": "The Kingdom of Fire",
+        "plot": "In a medieval kingdom threatened by a fierce dragon, a young knight must unite warring factions and lead them to battle to protect his people from the fiery beast.",
+        "classification": "12"
+    },
+    {
+        "title": "Beneath the Surface",
+        "plot": "A group of deep-sea explorers discovers a hidden underwater city. As they explore its ruins, they awaken ancient forces that threaten their survival.",
+        "classification": "18"
+    },
+    {
+        "title": "The Timekeeper",
+        "plot": "A scientist accidentally creates a time machine and travels to a future where humanity is on the brink of extinction. He must figure out how to fix the timeline before it's too late.",
+        "classification": "16"
+    },
+    {
+        "title": "The Enchanted Forest",
+        "plot": "A young girl discovers a hidden forest filled with magical creatures and ancient powers. She must protect the forest from an evil sorcerer who seeks to control it.",
+        "classification": "Livre"
+    },
+    {
+        "title": "The Silent Sea",
+        "plot": "In the distant future, a team of astronauts is sent on a mission to retrieve a mysterious object from the Moon. They must survive the harsh conditions and uncover the truth behind the object's origin.",
+        "classification": "18"
+    },
+    {
+        "title": "Echoes of the Past",
+        "plot": "A historian uncovers a series of forgotten letters from the past that reveal dark secrets about her family's history. As she digs deeper, she uncovers a conspiracy that threatens her future.",
+        "classification": "16"
+    },
+    {
+        "title": "The Icebreaker",
+        "plot": "A research team trapped in the Arctic after their ship crashes must find a way to survive the extreme cold and navigate through dangerous territory to reach safety.",
+        "classification": "12"
+    },
+    {
+        "title": "The Outcast",
+        "plot": "A young woman, rejected by society for her unusual abilities, discovers that her powers are the key to saving the world from an ancient threat.",
+        "classification": "10"
+    },
+    {
+        "title": "The Shadow Society",
+        "plot": "A young hacker is recruited by a secret organization to expose a corrupt government. But as the conspiracy unfolds, she finds herself in over her head, struggling to survive.",
+        "classification": "18"
+    },
+    {
+        "title": "The Awakening",
+        "plot": "A scientist studying the effects of artificial intelligence on human consciousness begins to experience strange occurrences. She soon realizes she may be losing her grip on reality.",
+        "classification": "16"
+    },
+    {
+        "title": "The Last Samurai",
+        "plot": "A disillusioned American soldier is sent to Japan to train a group of samurai in modern warfare. But as he immerses himself in their culture, he must decide where his loyalties truly lie.",
+        "classification": "12"
+    },
+    {
+        "title": "The Desert of Souls",
+        "plot": "A group of explorers searching for a lost city in the desert encounters dangerous sandstorms, bandits, and supernatural forces as they fight to survive.",
+        "classification": "18"
+    },
+    {
+        "title": "The Truth Revealed",
+        "plot": "A journalist investigating a high-profile political scandal finds himself drawn into a web of deceit and danger as he uncovers the truth behind the lies.",
+        "classification": "16"
+    },
+    {
+        "title": "The Ancient Curse",
+        "plot": "A group of friends on a road trip stumbles upon an ancient artifact that unleashes a curse. They must figure out how to break the curse before it destroys them all.",
+        "classification": "12"
+    },
+    {
+        "title": "The Eternal Night",
+        "plot": "A vampire hunter tracks down an immortal vampire who has been terrorizing the city for centuries. Along the way, he uncovers the true nature of the vampire's curse.",
+        "classification": "18"
     }
 ]
